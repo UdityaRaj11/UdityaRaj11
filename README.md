@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="200"/>
+</div>
+<div id="s=Social_Badges" align="center">
+   <a href="https://www.linkedin.com/in/uditya-raj-b6152b224"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/>
+    <a href="https://www.instagram.com/uditya_raj_001/"><img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=red&style=for-the-bage"/>
+</div>
 <!--
 **UdityaRaj11/UdityaRaj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
