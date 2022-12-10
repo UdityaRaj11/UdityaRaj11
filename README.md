@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="164"/>
+  <img src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" width="164"/>
 </div>
 <div id="s=Social_Badges" align="center">
    <a href="https://www.linkedin.com/in/uditya-raj-b6152b224"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/>
