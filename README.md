@@ -10,7 +10,7 @@
 <div>
   <h2><img src="https://i.pinimg.com/originals/7f/2f/e5/7f2fe5f0e8874600661503385b577883.png" width="100"/>About Me</h2>
   <h3>I am a Software Developer. <img src="https://cdn4.iconfinder.com/data/icons/jobs-and-occupations-3/64/Programmer-job-avatar-profession-occupation-website-coding-programing-backend-developer-512.png" width="50"/></h3>
-I am an enthusiastic Flutter Developer who enjoys learning new skills and technologies, and creating solutions. AI astonishes me, so I can say that building some AI skills is also fascinating. And I am up to it.
+<h4>I am an enthusiastic Flutter Developer who enjoys learning new skills and technologies, and creating solutions. AI astonishes me, so I can say that building some AI skills is also fascinating. And I am up to it.</h4>
   <ul>
     <li>🌍  I'm based in Bhubneshwar</li>
     <li>✉️  You can contact me at [udityaraj2002@gmail.com]</li>
